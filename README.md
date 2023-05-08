@@ -1,5 +1,5 @@
 # Galleria
-A website for a fictional gallery.
+A website for a fictional gallery with *HTML* and *SASS*.
 
 ## Website images - Screenshots
 ### Website page
