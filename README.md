@@ -1,7 +1,7 @@
 # Galleria
 A website for a fictional gallery for images developed in *HTML* and *SASS*.
 
-Link: <a href="https://adrwaan.github.io/Galleria/" target="_blank">Galleria</a>
+Link: <a href="https://adrwaan.github.io/Galleria/">Galleria</a>
 ## Website images - Screenshots
 ### Website page
 <img src="core/Img (2).png">
