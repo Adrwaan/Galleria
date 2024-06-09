@@ -3,13 +3,13 @@ Projeto de um website fictício de uma galeria de imagens desenvolvido em HTML e
 
 Link preview do projeto: <a href="https://adrwaan.github.io/Galleria/">Galleria</a>
 ## Imagens do Projeto - Screenshots
-### Início da página:
+* ### Início da página:
 <img src="core/Img (2).png">
 
-### Início da página com o mouse sobre uma imagem:
+* ### Início da página com o mouse sobre uma imagem:
 <img src="core/Img (3).png">
 
-### Página mais abaixo:
+* ### Página mais abaixo:
 <img src="core/Img (1).png">
 
 <hr>
