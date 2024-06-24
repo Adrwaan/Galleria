@@ -15,7 +15,7 @@ Link preview do projeto: <a href="https://adrwaan.github.io/Galleria/">Galleria<
 <hr>
 
 ## Especificações:
-O projeto foi criado em HTML e SASS. Para visualizar baixe o repositório e abra o arquivo em um navegador. Para clonar o repositótio utilize o comando abaixo:
+O projeto foi criado em HTML e SASS. Para visualizar baixe o repositório e abra o arquivo ```index.html``` em um navegador. Para clonar o repositótio utilize o comando abaixo:
 ```
 git clone https://github.com/Adrwaan/Galleria.git
 ```
